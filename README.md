@@ -28,6 +28,7 @@
 | [0020-valid-parentheses](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0079-word-search) |
 | [0344-reverse-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0412-fizz-buzz) |
 | [1894-merge-strings-alternately](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -46,6 +47,7 @@
 | [0048-rotate-image](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0406-queue-reconstruction-by-height](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
@@ -204,6 +206,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0079-word-search) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Binary Search Tree
 |  |
@@ -229,4 +232,5 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
