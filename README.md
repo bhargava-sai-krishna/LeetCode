@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0011-container-with-most-water) |
 | [0406-queue-reconstruction-by-height](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0792-binary-search](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0792-binary-search) |
@@ -55,6 +56,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 ## Heap (Priority Queue)
 |  |
@@ -84,6 +86,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0792-binary-search](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0792-binary-search) |
 ## Sliding Window
 |  |
