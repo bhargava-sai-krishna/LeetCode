@@ -41,6 +41,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0344-reverse-string) |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0412-fizz-buzz) |
 | [1552-build-an-array-with-stack-operations](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 ## Binary Indexed Tree
@@ -181,6 +183,7 @@
 | [0048-rotate-image](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0412-fizz-buzz](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0412-fizz-buzz) |
@@ -247,6 +250,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
