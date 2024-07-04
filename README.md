@@ -42,6 +42,7 @@
 | [0792-binary-search](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0792-binary-search) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1552-build-an-array-with-stack-operations](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Stack
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | ------- |
 | [0015-3sum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0015-3sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Linked List
 |  |
 | ------- |
@@ -175,6 +177,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0048-rotate-image) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Binary Search Tree
 |  |
 | ------- |
