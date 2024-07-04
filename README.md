@@ -173,6 +173,7 @@
 | [0412-fizz-buzz](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1585-the-kth-factor-of-n](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 ## Binary Search
 |  |
 | ------- |
@@ -290,4 +291,8 @@
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1217-relative-sort-array) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
