@@ -15,6 +15,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0001-two-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
+| [0792-binary-search](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0792-binary-search) |
 | [1552-build-an-array-with-stack-operations](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 ## Stack
 |  |
@@ -62,4 +63,8 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0013-roman-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
