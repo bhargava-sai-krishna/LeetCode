@@ -65,6 +65,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0725-split-linked-list-in-parts](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 ## Divide and Conquer
 |  |
 | ------- |
