@@ -41,6 +41,7 @@
 | [0022-generate-parentheses](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0079-word-search) |
@@ -68,6 +69,7 @@
 | [0045-jump-game-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0066-plus-one) |
@@ -120,6 +122,7 @@
 | ------- |
 | [0015-3sum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0217-contains-duplicate) |
@@ -169,6 +172,7 @@
 | [0013-roman-to-integer](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0217-contains-duplicate) |
