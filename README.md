@@ -26,6 +26,7 @@
 | [0011-container-with-most-water](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0048-rotate-image) |
 | [0406-queue-reconstruction-by-height](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0792-binary-search](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0792-binary-search) |
 | [1552-build-an-array-with-stack-operations](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
@@ -87,6 +88,7 @@
 | [0012-integer-to-roman](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0050-powx-n) |
 | [0412-fizz-buzz](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0412-fizz-buzz) |
 ## Binary Search
@@ -137,4 +139,8 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0045-jump-game-ii) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
