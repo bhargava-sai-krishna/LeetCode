@@ -8,6 +8,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0013-roman-to-integer) |
 | [1894-merge-strings-alternately](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
@@ -55,8 +56,10 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
