@@ -13,6 +13,7 @@
 | [0008-string-to-integer-atoi](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0412-fizz-buzz) |
 | [1894-merge-strings-alternately](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
@@ -29,6 +30,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0412-fizz-buzz) |
 | [1552-build-an-array-with-stack-operations](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 ## Binary Indexed Tree
 |  |
@@ -74,6 +76,7 @@
 | [0009-palindrome-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
 | ------- |
