@@ -32,6 +32,7 @@
 | [0035-search-insert-position](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0066-plus-one) |
 | [0406-queue-reconstruction-by-height](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0792-binary-search](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0792-binary-search) |
 | [1552-build-an-array-with-stack-operations](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
@@ -104,6 +105,7 @@
 | [0043-multiply-strings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
