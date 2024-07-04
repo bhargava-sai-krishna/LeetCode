@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0011-container-with-most-water) |
 | [1894-merge-strings-alternately](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0011-container-with-most-water) |
 | [0406-queue-reconstruction-by-height](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0792-binary-search](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0792-binary-search) |
 | [1552-build-an-array-with-stack-operations](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
@@ -79,4 +81,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0002-add-two-numbers) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
