@@ -4,7 +4,6 @@ class Solution {
         for(int i:nums){
             ans=ans^i;
         }
-        System.gc();
         return ans;
     }
 }
