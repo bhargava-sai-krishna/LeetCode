@@ -90,6 +90,7 @@
 | [0136-single-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -141,6 +142,7 @@
 | [0049-group-anagrams](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0217-contains-duplicate) |
 | [0406-queue-reconstruction-by-height](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0414-third-maximum-number) |
@@ -175,6 +177,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -197,6 +200,7 @@
 | [0141-linked-list-cycle](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1217-relative-sort-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1217-relative-sort-array) |
@@ -366,6 +370,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0169-majority-element) |
 | [1217-relative-sort-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1217-relative-sort-array) |
 ## Number Theory
 |  |
