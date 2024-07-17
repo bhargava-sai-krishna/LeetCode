@@ -279,6 +279,7 @@
 | [0110-balanced-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
@@ -291,6 +292,7 @@
 | [0110-balanced-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -311,6 +313,7 @@
 | [0110-balanced-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Bit Manipulation
 |  |
