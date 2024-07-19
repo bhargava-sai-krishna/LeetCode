@@ -1,27 +1,23 @@
+import java.util.HashMap;
+
 class Solution {
-    public int preInd = 0;
+    public int preInd=0;
+    public HashMap<Integer, Integer> inorderMap=new HashMap<>();
+
     public TreeNode builder(int[] inorder, int[] preorder, int inStart, int inEnd) {
-        if (inStart > inEnd){
-            return null;
-        } 
+        if (inStart > inEnd) return null;
         TreeNode node = new TreeNode(preorder[preInd++]);
-        if (inStart == inEnd){
-            return node;
-        } 
-        int inIndex = search(inorder, inStart, inEnd, node.val);
+        if (inStart == inEnd) return node;
+        int inIndex = inorderMap.get(node.val);
         node.left = builder(inorder, preorder, inStart, inIndex - 1);
         node.right = builder(inorder, preorder, inIndex + 1, inEnd);
         return node;
     }
-    public int search(int[] inorder, int inStart, int inEnd, int data) {
-        for (int i = inStart; i <= inEnd; i++) {
-            if (inorder[i] == data){
-                return i;
-            }
-        }
-        return -1;
-    }
+
     public TreeNode buildTree(int[] preorder, int[] inorder) {
+        for (int i = 0; i < inorder.length; i++) {
+            inorderMap.put(inorder[i], i);
+        }
         return builder(inorder, preorder, 0, inorder.length - 1);
     }
 }
