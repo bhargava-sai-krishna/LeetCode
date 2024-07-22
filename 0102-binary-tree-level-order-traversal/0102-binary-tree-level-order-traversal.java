@@ -29,6 +29,7 @@ class Solution {
         for (int i=0;i<h;i++) {
             ans.add(getCurrentLevel(root, i + 1));
         }
+        System.gc();
         return ans;
     }
 
