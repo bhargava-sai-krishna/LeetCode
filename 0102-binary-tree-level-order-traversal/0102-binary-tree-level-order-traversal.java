@@ -14,37 +14,29 @@
  * }
  */
 class Solution {
-    public int height(TreeNode root) {
-        if (root==null) {
-            return 0;
-        }
-        int lheight = height(root.left);
-        int rheight = height(root.right);
-        return (lheight>rheight)?lheight+1:rheight+1;
-    }
-
     public List<List<Integer>> levelOrder(TreeNode root) {
         List<List<Integer>> ans=new ArrayList<>();
-        int h = height(root);
-        for (int i=0;i<h;i++) {
-            ans.add(getCurrentLevel(root, i + 1));
+        if (root == null) {
+            return ans;
         }
-        System.gc();
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.offer(root);
+        while (!queue.isEmpty()) {
+            int levelSize = queue.size();
+            List<Integer> currentLevel = new ArrayList<>();
+            for (int i=0; i < levelSize; i++) {
+                TreeNode currentNode = queue.poll();
+                currentLevel.add(currentNode.val);
+                
+                if (currentNode.left != null) {
+                    queue.offer(currentNode.left);
+                }
+                if (currentNode.right != null) {
+                    queue.offer(currentNode.right);
+                }
+            }
+            ans.add(currentLevel);
+        }
         return ans;
-    }
-
-    public List<Integer> getCurrentLevel(TreeNode root, int level) {
-        List<Integer> temp = new ArrayList<>();
-        if(root==null) {
-            return temp;
-        }
-        if(level==1) {
-            temp.add(root.val);
-        } 
-        else if(level>1) {
-            temp.addAll(getCurrentLevel(root.left, level - 1));
-            temp.addAll(getCurrentLevel(root.right, level - 1));
-        }
-        return temp;
     }
 }
