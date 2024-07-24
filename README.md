@@ -103,6 +103,7 @@
 | [0406-queue-reconstruction-by-height](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0739-daily-temperatures](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0792-binary-search) |
 | [1217-relative-sort-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1217-relative-sort-array) |
 | [1293-three-consecutive-odds](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -125,6 +126,7 @@
 | [0155-min-stack](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0739-daily-temperatures) |
 | [1552-build-an-array-with-stack-operations](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 ## Simulation
 |  |
@@ -430,6 +432,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0739-daily-temperatures) |
 ## Hash Function
 |  |
 | ------- |
