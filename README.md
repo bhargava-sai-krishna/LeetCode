@@ -60,6 +60,7 @@
 | [0412-fizz-buzz](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2502-sort-the-people) |
 | [2615-make-number-of-distinct-characters-equal](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [2727-number-of-senior-citizens](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -122,6 +123,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2139-detect-squares](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2139-detect-squares) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2502-sort-the-people) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -254,6 +256,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2139-detect-squares](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2139-detect-squares) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2502-sort-the-people) |
 | [2615-make-number-of-distinct-characters-equal](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2615-make-number-of-distinct-characters-equal) |
@@ -476,6 +479,7 @@
 | [0948-sort-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0948-sort-an-array) |
 | [1217-relative-sort-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1217-relative-sort-array) |
 | [2139-detect-squares](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2139-detect-squares) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2615-make-number-of-distinct-characters-equal](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2615-make-number-of-distinct-characters-equal) |
 ## Number Theory
 |  |
