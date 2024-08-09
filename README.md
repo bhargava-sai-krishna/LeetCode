@@ -119,6 +119,7 @@
 | [0739-daily-temperatures](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0792-binary-search) |
 | [0870-magic-squares-in-grid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0921-spiral-matrix-iii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0948-sort-an-array) |
 | [1217-relative-sort-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1217-relative-sort-array) |
 | [1293-three-consecutive-odds](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -156,6 +157,7 @@
 | [0054-spiral-matrix](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0412-fizz-buzz) |
+| [0921-spiral-matrix-iii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1552-build-an-array-with-stack-operations](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Binary Indexed Tree
@@ -439,6 +441,7 @@
 | [0074-search-a-2d-matrix](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0079-word-search) |
 | [0870-magic-squares-in-grid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0921-spiral-matrix-iii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Binary Search Tree
 |  |
