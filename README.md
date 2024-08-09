@@ -118,6 +118,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0739-daily-temperatures](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0792-binary-search) |
+| [0870-magic-squares-in-grid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0948-sort-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0948-sort-an-array) |
 | [1217-relative-sort-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1217-relative-sort-array) |
 | [1293-three-consecutive-odds](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -257,6 +258,7 @@
 | [0217-contains-duplicate](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0870-magic-squares-in-grid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1217-relative-sort-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1217-relative-sort-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -290,6 +292,7 @@
 | [0202-happy-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0870-magic-squares-in-grid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1585-the-kth-factor-of-n](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1585-the-kth-factor-of-n) |
@@ -435,6 +438,7 @@
 | [0073-set-matrix-zeroes](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0079-word-search) |
+| [0870-magic-squares-in-grid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Binary Search Tree
 |  |
