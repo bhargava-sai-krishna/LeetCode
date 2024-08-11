@@ -112,6 +112,7 @@
 | [0217-contains-duplicate](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0406-queue-reconstruction-by-height](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
@@ -180,6 +181,7 @@
 | [0088-merge-sorted-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0406-queue-reconstruction-by-height](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0414-third-maximum-number) |
@@ -259,6 +261,7 @@
 | [0169-majority-element](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0870-magic-squares-in-grid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -293,6 +296,7 @@
 | [0171-excel-sheet-column-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0870-magic-squares-in-grid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -309,6 +313,7 @@
 | [0069-sqrtx](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0792-binary-search) |
@@ -415,6 +420,7 @@
 | [0089-gray-code](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0338-counting-bits) |
 ## Dynamic Programming
