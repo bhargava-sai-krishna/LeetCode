@@ -109,6 +109,7 @@
 | [0119-pascals-triangle-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -265,6 +266,7 @@
 | [0049-group-anagrams](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -571,4 +573,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0146-lru-cache) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
