@@ -63,6 +63,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2502-sort-the-people) |
 | [2615-make-number-of-distinct-characters-equal](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2615-make-number-of-distinct-characters-equal) |
@@ -175,6 +176,7 @@
 | [0921-spiral-matrix-iii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1552-build-an-array-with-stack-operations](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Binary Indexed Tree
 |  |
