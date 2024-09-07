@@ -234,6 +234,7 @@
 | [0206-reverse-linked-list](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0725-split-linked-list-in-parts) |
+| [1484-linked-list-in-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1765-merge-in-between-linked-lists](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1765-merge-in-between-linked-lists) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -390,6 +391,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
@@ -409,6 +411,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -420,6 +423,7 @@
 | [0112-path-sum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0322-coin-change) |
+| [1484-linked-list-in-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -441,6 +445,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Bit Manipulation
 |  |
