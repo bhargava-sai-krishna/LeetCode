@@ -41,6 +41,7 @@ class Solution {
 
             ans[i] = newPart;
         }
+        System.gc();
         return ans;
     }
 }
