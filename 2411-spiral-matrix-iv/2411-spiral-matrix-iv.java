@@ -44,6 +44,7 @@ class Solution {
                 left++;
             }
         }
+        System.gc();
         return result;
     }
 }
