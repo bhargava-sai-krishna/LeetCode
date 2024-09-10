@@ -25,6 +25,7 @@ class Solution {
             ans.next=gcdNode;
             ans=gcdNode.next;
         }
+        System.gc();
         return head;
     }
 }
