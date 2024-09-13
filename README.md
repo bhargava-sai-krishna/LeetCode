@@ -138,6 +138,7 @@
 | [1217-relative-sort-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1217-relative-sort-array) |
 | [1293-three-consecutive-odds](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1435-xor-queries-of-a-subarray](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1552-build-an-array-with-stack-operations](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -467,6 +468,7 @@
 | [0268-missing-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0338-counting-bits) |
+| [1435-xor-queries-of-a-subarray](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Dynamic Programming
@@ -590,6 +592,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1435-xor-queries-of-a-subarray](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Radix Sort
 |  |
