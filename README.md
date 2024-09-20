@@ -57,6 +57,7 @@
 | [0168-excel-sheet-column-title](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0344-reverse-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0392-is-subsequence) |
@@ -565,6 +566,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Memoization
 |  |
@@ -597,6 +599,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Bucket Sort
 |  |
@@ -630,4 +633,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
