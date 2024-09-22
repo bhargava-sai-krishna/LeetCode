@@ -551,6 +551,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Backtracking
 |  |
 | ------- |
