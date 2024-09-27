@@ -106,6 +106,7 @@
 | [0049-group-anagrams](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0059-spiral-matrix-ii) |
@@ -404,6 +405,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -512,6 +514,7 @@
 | [0042-trapping-rain-water](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0118-pascals-triangle) |
