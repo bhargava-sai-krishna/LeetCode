@@ -261,6 +261,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -317,6 +318,7 @@
 | [0217-contains-duplicate](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0432-all-oone-data-structure](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0870-magic-squares-in-grid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -559,6 +561,7 @@
 | [0146-lru-cache](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0432-all-oone-data-structure](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0859-design-circular-deque) |
@@ -661,6 +664,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0432-all-oone-data-structure) |
 ## Union Find
 |  |
 | ------- |
