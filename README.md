@@ -350,6 +350,7 @@
 | [0043-multiply-strings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0069-sqrtx) |
@@ -521,6 +522,7 @@
 | [0045-jump-game-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0118-pascals-triangle) |
@@ -681,4 +683,8 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0731-my-calendar-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
