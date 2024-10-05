@@ -30,6 +30,7 @@
 | [0287-find-the-duplicate-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1894-merge-strings-alternately](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -65,6 +66,7 @@
 | [0392-is-subsequence](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -329,6 +331,7 @@
 | [0347-top-k-frequent-elements](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0432-all-oone-data-structure](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0567-permutation-in-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0567-permutation-in-string) |
 | [0870-magic-squares-in-grid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1217-relative-sort-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1217-relative-sort-array) |
@@ -406,6 +409,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0567-permutation-in-string) |
 ## Recursion
 |  |
 | ------- |
