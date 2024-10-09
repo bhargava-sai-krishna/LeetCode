@@ -71,6 +71,7 @@
 | [0567-permutation-in-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -203,6 +204,7 @@
 | [0234-palindrome-linked-list](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0739-daily-temperatures) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -442,6 +444,7 @@
 | [0435-non-overlapping-intervals](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0890-lemonade-change) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
