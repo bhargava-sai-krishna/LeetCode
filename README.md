@@ -160,6 +160,7 @@
 | [0890-lemonade-change](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0948-sort-an-array) |
+| [1002-maximum-width-ramp](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1217-relative-sort-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -205,6 +206,7 @@
 | [0678-valid-parenthesis-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -664,6 +666,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0739-daily-temperatures) |
+| [1002-maximum-width-ramp](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1002-maximum-width-ramp) |
 ## Hash Function
 |  |
 | ------- |
