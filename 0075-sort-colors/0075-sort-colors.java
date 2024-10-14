@@ -1,6 +1,6 @@
 class Solution {
     public void sortColors(int[] nums) {
-        int zer=0, one=0, two=0;
+        int zer=0, one=0;
         for(int i:nums){
             switch(i){
                 case 0:
@@ -10,7 +10,6 @@ class Solution {
                     one++;
                     break;
                 case 2:
-                    two++;
                     break;
             }
         }
@@ -23,9 +22,8 @@ class Solution {
                 nums[i]=1;
                 one--;
             }
-            else if(two!=0){
+            else{
                 nums[i]=2;
-                two--;
             }
         }
     }
