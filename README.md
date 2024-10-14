@@ -186,6 +186,7 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2727-number-of-senior-citizens](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2755-extra-characters-in-a-string) |
@@ -318,6 +319,7 @@
 | [0347-top-k-frequent-elements](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0948-sort-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Merge Sort
 |  |
 | ------- |
@@ -454,6 +456,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
 |  |
