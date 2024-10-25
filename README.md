@@ -330,6 +330,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0744-network-delay-time](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0744-network-delay-time) |
 | [0948-sort-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1304-longest-happy-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -524,6 +525,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0744-network-delay-time](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0744-network-delay-time) |
 | [1484-linked-list-in-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -538,6 +540,7 @@
 | [0200-number-of-islands](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0322-coin-change) |
+| [0744-network-delay-time](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1036-rotting-oranges) |
 | [1484-linked-list-in-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -766,4 +769,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0062-unique-paths) |
+## Graph
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
