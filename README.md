@@ -205,6 +205,7 @@
 | [2727-number-of-senior-citizens](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2756-buy-two-chocolates](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2756-buy-two-chocolates) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2881-split-strings-by-separator](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -622,6 +623,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2586-longest-square-streak-in-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -639,6 +641,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2411-spiral-matrix-iv](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Binary Search Tree
 |  |
 | ------- |
