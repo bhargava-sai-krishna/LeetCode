@@ -344,6 +344,7 @@
 | [0239-sliding-window-maximum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0744-network-delay-time) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1304-longest-happy-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -519,6 +520,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1484-linked-list-in-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -584,6 +586,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1484-linked-list-in-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -660,6 +663,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
 |  |
 | ------- |
@@ -669,6 +673,7 @@
 | [0432-all-oone-data-structure](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2139-detect-squares](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2139-detect-squares) |
@@ -805,4 +810,8 @@
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0744-network-delay-time) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
