@@ -218,6 +218,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2881-split-strings-by-separator](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
 |  |
@@ -469,6 +470,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0567-permutation-in-string) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -611,6 +613,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3394-minimum-array-end) |
 ## Dynamic Programming
 |  |
