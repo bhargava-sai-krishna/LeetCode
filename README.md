@@ -99,6 +99,7 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2580-circular-sentence) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2615-make-number-of-distinct-characters-equal](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [2727-number-of-senior-citizens](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2755-extra-characters-in-a-string) |
@@ -413,6 +414,7 @@
 | [2502-sort-the-people](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2615-make-number-of-distinct-characters-equal](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2755-extra-characters-in-a-string) |
@@ -488,6 +490,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0567-permutation-in-string) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Recursion
 |  |
