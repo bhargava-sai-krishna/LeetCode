@@ -187,6 +187,7 @@
 | [0921-spiral-matrix-iii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0948-sort-an-array) |
 | [1002-maximum-width-ramp](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1014-k-closest-points-to-origin](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1217-relative-sort-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1217-relative-sort-array) |
@@ -301,6 +302,7 @@
 | [0435-non-overlapping-intervals](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0539-minimum-time-difference](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0948-sort-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1217-relative-sort-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1397-search-suggestions-system](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1397-search-suggestions-system) |
@@ -356,6 +358,7 @@
 | [0191-number-of-1-bits](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -365,6 +368,7 @@
 | [0744-network-delay-time](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1304-longest-happy-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1304-longest-happy-string) |
 | [1397-search-suggestions-system](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1397-search-suggestions-system) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -460,6 +464,7 @@
 | [0670-maximum-swap](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1585-the-kth-factor-of-n](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1585-the-kth-factor-of-n) |
@@ -730,6 +735,7 @@
 ## Geometry
 |  |
 | ------- |
+| [1014-k-closest-points-to-origin](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Trie
 |  |
@@ -809,6 +815,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
 | ------- |
