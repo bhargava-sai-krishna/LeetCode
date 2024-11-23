@@ -37,6 +37,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1894-merge-strings-alternately](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1923-sentence-similarity-iii) |
+| [1972-rotating-the-box](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -208,6 +209,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
+| [1972-rotating-the-box](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1972-rotating-the-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2139-detect-squares](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2139-detect-squares) |
 | [2155-find-missing-observations](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2155-find-missing-observations) |
@@ -701,6 +703,7 @@
 | [1036-rotting-oranges](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1972-rotating-the-box](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1972-rotating-the-box) |
 | [2411-spiral-matrix-iv](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
