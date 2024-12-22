@@ -172,6 +172,7 @@
 | [0179-largest-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -487,6 +488,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0268-missing-number) |
@@ -850,6 +852,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0204-count-primes) |
 | [1585-the-kth-factor-of-n](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [2716-prime-subtraction-operation](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -934,4 +937,8 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
