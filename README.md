@@ -492,6 +492,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0441-arranging-coins) |
@@ -941,4 +942,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0204-count-primes) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
