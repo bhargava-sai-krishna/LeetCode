@@ -602,6 +602,7 @@
 | [0226-invert-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -629,6 +630,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0695-max-area-of-island) |
@@ -652,6 +654,7 @@
 | [0226-invert-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0695-max-area-of-island](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1036-rotting-oranges) |
@@ -679,6 +682,7 @@
 | [0226-invert-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
