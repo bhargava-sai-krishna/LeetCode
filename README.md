@@ -201,6 +201,7 @@
 | [1002-maximum-width-ramp](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1036-rotting-oranges) |
+| [1063-best-sightseeing-pair](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1127-last-stone-weight](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1127-last-stone-weight) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1217-relative-sort-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1217-relative-sort-array) |
@@ -741,6 +742,7 @@
 | [0678-valid-parenthesis-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1013-fibonacci-number) |
+| [1063-best-sightseeing-pair](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1250-longest-common-subsequence](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2586-longest-square-streak-in-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
