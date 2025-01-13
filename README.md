@@ -305,6 +305,7 @@
 | [0054-spiral-matrix](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0412-fizz-buzz) |
 | [0921-spiral-matrix-iii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1552-build-an-array-with-stack-operations](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
@@ -517,6 +518,7 @@
 | [0204-count-primes](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0292-nim-game) |
@@ -900,6 +902,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0258-add-digits) |
 | [1585-the-kth-factor-of-n](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [2716-prime-subtraction-operation](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
