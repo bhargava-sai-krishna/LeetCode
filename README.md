@@ -77,6 +77,7 @@
 | [0214-shortest-palindrome](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0257-binary-tree-paths](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0412-fizz-buzz) |
@@ -634,6 +635,7 @@
 | [0226-invert-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0572-subtree-of-another-tree) |
@@ -662,6 +664,7 @@
 | [0226-invert-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -717,6 +720,7 @@
 | [0226-invert-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0572-subtree-of-another-tree) |
@@ -865,6 +869,7 @@
 | [0079-word-search](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0494-target-sum) |
 ## String Matching
 |  |
