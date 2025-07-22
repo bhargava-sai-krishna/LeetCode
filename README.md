@@ -256,6 +256,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1813-maximum-erasure-value](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1923-sentence-similarity-iii) |
@@ -514,6 +515,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1813-maximum-erasure-value](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2139-detect-squares](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2139-detect-squares) |
@@ -614,6 +616,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1813-maximum-erasure-value](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
