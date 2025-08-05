@@ -302,6 +302,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Stack
 |  |
 | ------- |
@@ -354,6 +355,7 @@
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -364,6 +366,7 @@
 | [0406-queue-reconstruction-by-height](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0729-my-calendar-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0731-my-calendar-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -618,6 +621,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [3790-fruits-into-baskets-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1064,6 +1068,7 @@
 | [0729-my-calendar-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0731-my-calendar-ii) |
 | [2868-continuous-subarrays](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3790-fruits-into-baskets-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Combinatorics
 |  |
 | ------- |
