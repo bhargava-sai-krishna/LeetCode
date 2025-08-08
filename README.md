@@ -582,6 +582,7 @@
 | [0539-minimum-time-difference](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0633-sum-of-square-numbers](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0670-maximum-swap) |
+| [0826-soup-servings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0826-soup-servings) |
 | [0870-magic-squares-in-grid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -860,6 +861,7 @@
 | [0647-palindromic-substrings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0826-soup-servings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1063-best-sightseeing-pair) |
@@ -1098,4 +1100,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0292-nim-game) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
