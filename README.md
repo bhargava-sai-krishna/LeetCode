@@ -213,6 +213,7 @@
 | [0268-missing-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0406-queue-reconstruction-by-height](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0414-third-maximum-number) |
@@ -743,6 +744,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -769,6 +771,7 @@
 | [0200-number-of-islands](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0695-max-area-of-island](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0695-max-area-of-island) |
@@ -864,6 +867,7 @@
 | [0198-house-robber](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -897,6 +901,7 @@
 | [0079-word-search](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0200-number-of-islands) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0695-max-area-of-island) |
 | [0870-magic-squares-in-grid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -988,6 +993,7 @@
 | [0070-climbing-stairs](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1013-fibonacci-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1013-fibonacci-number) |
 ## Counting Sort
 |  |
@@ -1092,6 +1098,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0133-clone-graph) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0744-network-delay-time](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0744-network-delay-time) |
 ## Shortest Path
 |  |
@@ -1117,4 +1124,8 @@
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0826-soup-servings) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
