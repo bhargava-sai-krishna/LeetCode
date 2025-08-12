@@ -65,6 +65,7 @@
 | [0020-valid-parentheses](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0049-group-anagrams) |
@@ -307,6 +308,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
@@ -833,6 +835,7 @@
 | [0005-longest-palindromic-substring](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0053-maximum-subarray) |
