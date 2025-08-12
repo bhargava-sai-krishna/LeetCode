@@ -181,6 +181,7 @@
 | [0079-word-search](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -311,6 +312,7 @@
 | [0032-longest-valid-parentheses](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0071-simplify-path) |
+| [0085-maximal-rectangle](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0143-reorder-list) |
@@ -845,6 +847,7 @@
 | [0064-minimum-path-sum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0118-pascals-triangle) |
@@ -888,6 +891,7 @@
 | [0073-set-matrix-zeroes](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0695-max-area-of-island) |
@@ -1010,6 +1014,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0883-car-fleet) |
 | [1002-maximum-width-ramp](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1002-maximum-width-ramp) |
