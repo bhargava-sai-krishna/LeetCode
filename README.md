@@ -754,6 +754,7 @@
 | [0572-subtree-of-another-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1484-linked-list-in-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -779,6 +780,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0695-max-area-of-island](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1036-rotting-oranges) |
 | [1484-linked-list-in-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1082,6 +1084,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0695-max-area-of-island) |
+| [0801-is-graph-bipartite](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0801-is-graph-bipartite) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -1104,6 +1107,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0744-network-delay-time](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0801-is-graph-bipartite) |
 ## Shortest Path
 |  |
 | ------- |
