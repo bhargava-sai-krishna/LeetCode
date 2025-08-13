@@ -329,6 +329,7 @@
 | [0678-valid-parenthesis-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0883-car-fleet) |
+| [0931-maximum-frequency-stack](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
@@ -524,6 +525,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0870-magic-squares-in-grid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0931-maximum-frequency-stack](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [0952-word-subsets](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1217-relative-sort-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1217-relative-sort-array) |
@@ -941,6 +943,7 @@
 | [0731-my-calendar-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0859-design-circular-deque) |
+| [0931-maximum-frequency-stack](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2139-detect-squares](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2139-detect-squares) |
@@ -1097,6 +1100,7 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0931-maximum-frequency-stack](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [2868-continuous-subarrays](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Combinatorics
