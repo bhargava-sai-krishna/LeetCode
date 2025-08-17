@@ -596,6 +596,7 @@
 | [0633-sum-of-square-numbers](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0670-maximum-swap) |
 | [0826-soup-servings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0867-new-21-game) |
 | [0870-magic-squares-in-grid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -646,6 +647,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0867-new-21-game](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0867-new-21-game) |
 | [1813-maximum-erasure-value](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -892,6 +894,7 @@
 | [0678-valid-parenthesis-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0826-soup-servings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1063-best-sightseeing-pair) |
@@ -1145,6 +1148,7 @@
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0867-new-21-game) |
 ## Topological Sort
 |  |
 | ------- |
