@@ -282,6 +282,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -605,6 +606,7 @@
 | [1448-maximum-69-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1448-maximum-69-number) |
 | [1585-the-kth-factor-of-n](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [2155-find-missing-observations](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2155-find-missing-observations) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2716-prime-subtraction-operation](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
