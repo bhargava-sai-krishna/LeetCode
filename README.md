@@ -305,6 +305,7 @@
 | [2881-split-strings-by-separator](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -936,6 +937,7 @@
 | [2411-spiral-matrix-iv](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1141,6 +1143,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0204-count-primes) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Brainteaser
 |  |
 | ------- |
