@@ -224,6 +224,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0679-24-game) |
@@ -354,6 +355,7 @@
 | [0067-add-binary](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0412-fizz-buzz) |
+| [0498-diagonal-traverse](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0921-spiral-matrix-iii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1552-build-an-array-with-stack-operations](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -927,6 +929,7 @@
 | [0200-number-of-islands](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0498-diagonal-traverse](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0695-max-area-of-island) |
 | [0870-magic-squares-in-grid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0921-spiral-matrix-iii) |
