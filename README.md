@@ -304,6 +304,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2881-split-strings-by-separator](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2881-split-strings-by-separator) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
