@@ -312,6 +312,7 @@
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3748-sort-matrix-by-diagonals](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Stack
@@ -423,6 +424,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2756-buy-two-chocolates](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3748-sort-matrix-by-diagonals](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Linked List
 |  |
 | ------- |
@@ -947,6 +949,7 @@
 | [2631-sort-the-students-by-their-kth-score](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3748-sort-matrix-by-diagonals](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Search Tree
 |  |
 | ------- |
