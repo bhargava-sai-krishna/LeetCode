@@ -725,6 +725,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0100-same-tree) |
@@ -824,6 +825,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0100-same-tree) |
@@ -900,6 +902,7 @@
 | [0072-edit-distance](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -965,6 +968,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -1028,6 +1032,7 @@
 | [0079-word-search](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0679-24-game) |
