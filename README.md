@@ -616,6 +616,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1448-maximum-69-number) |
 | [1585-the-kth-factor-of-n](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [2155-find-missing-observations](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2155-find-missing-observations) |
