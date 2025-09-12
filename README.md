@@ -142,6 +142,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3396-valid-word](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3396-valid-word) |
 | [3451-string-compression-iii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3451-string-compression-iii) |
+| [3462-vowels-game-in-a-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Array
 |  |
@@ -628,6 +629,7 @@
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3462-vowels-game-in-a-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3830-find-closest-person](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3830-find-closest-person) |
@@ -1190,10 +1192,12 @@
 | ------- |
 | [0292-nim-game](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0292-nim-game) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0292-nim-game) |
+| [3462-vowels-game-in-a-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Probability and Statistics
 |  |
 | ------- |
