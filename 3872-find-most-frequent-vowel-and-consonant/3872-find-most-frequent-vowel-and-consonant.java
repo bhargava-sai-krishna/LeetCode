@@ -1,5 +1,6 @@
 class Solution {
     public int maxFreqSum(String s) {
+        String vowels="aeiou";
         int[] freq=new int[26];
         int vowel=0;
         int consonant=0;
