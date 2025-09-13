@@ -144,6 +144,7 @@
 | [3451-string-compression-iii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3451-string-compression-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
 | ------- |
@@ -572,6 +573,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
@@ -1080,6 +1082,7 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2615-make-number-of-distinct-characters-equal](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Number Theory
 |  |
 | ------- |
