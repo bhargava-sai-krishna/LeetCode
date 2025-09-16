@@ -289,6 +289,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -355,6 +356,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
 |  |
@@ -631,6 +633,7 @@
 | [1448-maximum-69-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1448-maximum-69-number) |
 | [1585-the-kth-factor-of-n](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [2155-find-missing-observations](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2155-find-missing-observations) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2716-prime-subtraction-operation](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -1094,6 +1097,7 @@
 | [0204-count-primes](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0258-add-digits) |
 | [1585-the-kth-factor-of-n](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1585-the-kth-factor-of-n) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2716-prime-subtraction-operation](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Monotonic Stack
