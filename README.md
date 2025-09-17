@@ -128,6 +128,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2429-design-a-food-rating-system](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2580-circular-sentence) |
@@ -292,6 +293,7 @@
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [2429-design-a-food-rating-system](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -500,6 +502,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2429-design-a-food-rating-system](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -569,6 +572,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2429-design-a-food-rating-system](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2502-sort-the-people](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -1009,6 +1013,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2139-detect-squares](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2139-detect-squares) |
+| [2429-design-a-food-rating-system](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2429-design-a-food-rating-system) |
 ## Queue
 |  |
 | ------- |
@@ -1170,6 +1175,7 @@
 | [0729-my-calendar-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0931-maximum-frequency-stack](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0931-maximum-frequency-stack) |
+| [2429-design-a-food-rating-system](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2868-continuous-subarrays](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Combinatorics
