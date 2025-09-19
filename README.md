@@ -147,6 +147,7 @@
 | [3451-string-compression-iii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3451-string-compression-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
+| [3797-design-spreadsheet](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
@@ -326,6 +327,7 @@
 | [3748-sort-matrix-by-diagonals](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3797-design-spreadsheet](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Stack
 |  |
 | ------- |
@@ -586,6 +588,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3678-design-task-manager](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -989,6 +992,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1017,6 +1021,7 @@
 | [2139-detect-squares](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2139-detect-squares) |
 | [2429-design-a-food-rating-system](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Queue
 |  |
 | ------- |
