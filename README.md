@@ -328,6 +328,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3827-implement-router) |
 ## Stack
 |  |
 | ------- |
@@ -589,6 +590,7 @@
 | [3678-design-task-manager](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -681,6 +683,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3790-fruits-into-baskets-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3827-implement-router](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3827-implement-router) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1022,6 +1025,7 @@
 | [2429-design-a-food-rating-system](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3827-implement-router) |
 ## Queue
 |  |
 | ------- |
@@ -1030,6 +1034,7 @@
 | [0859-design-circular-deque](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0859-design-circular-deque) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2868-continuous-subarrays](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3827-implement-router](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3827-implement-router) |
 ## Geometry
 |  |
 | ------- |
@@ -1187,6 +1192,7 @@
 | [2868-continuous-subarrays](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3678-design-task-manager](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3827-implement-router](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3827-implement-router) |
 ## Combinatorics
 |  |
 | ------- |
