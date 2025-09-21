@@ -284,6 +284,7 @@
 | [1972-rotating-the-box](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1972-rotating-the-box) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2023-design-movie-rental-system](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2139-detect-squares](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2139-detect-squares) |
 | [2155-find-missing-observations](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -504,6 +505,7 @@
 | [1397-search-suggestions-system](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2300-construct-string-with-repeat-limit](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2429-design-a-food-rating-system](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -571,6 +573,7 @@
 | [1813-maximum-erasure-value](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2139-detect-squares](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2139-detect-squares) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -1021,6 +1024,7 @@
 | [0931-maximum-frequency-stack](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2139-detect-squares](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2139-detect-squares) |
 | [2429-design-a-food-rating-system](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3678-design-task-manager) |
@@ -1188,6 +1192,7 @@
 | [0729-my-calendar-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0931-maximum-frequency-stack](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0931-maximum-frequency-stack) |
+| [2023-design-movie-rental-system](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2868-continuous-subarrays](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3678-design-task-manager](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3678-design-task-manager) |
