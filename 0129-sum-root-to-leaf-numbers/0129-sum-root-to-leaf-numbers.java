@@ -14,29 +14,19 @@
  * }
  */
 class Solution {
-    public void recur(TreeNode node, List<Integer> nums, String str){
-        str+=node.val;
-        if(node.left==null && node.right==null){
-            nums.add(Integer.parseInt(str));
-            return;
-        }
-        if(node.left!=null){
-            recur(node.left, nums, str);
-        }
-        if(node.right!=null){
-            recur(node.right, nums, str);
-        }
-    }
     public int sumNumbers(TreeNode root) {
-        if(root==null){
+        return dfs(root, 0);
+    }
+    
+    private int dfs(TreeNode node, int pathSum) {
+        if (node == null)
             return 0;
-        }
-        List<Integer> nums=new ArrayList<>();
-        recur(root, nums, "");
-        int ans=0;
-        for(int i:nums){
-            ans+=i;
-        }
-        return ans;
+        
+        pathSum = pathSum * 10 + node.val;
+        
+        if (node.left == null && node.right == null)
+            return pathSum;
+        
+        return dfs(node.left, pathSum) + dfs(node.right, pathSum);
     }
 }
