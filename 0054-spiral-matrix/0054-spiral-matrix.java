@@ -1,18 +1,21 @@
 class Solution {
-    public void spiral(int[][] matrix, int m, int n, List<Integer> ans, int r, int c, int dr, int dc){
-        if(m==0 || n==0){
-            return;
-        }
-        for(int i=1;i<=n;i++){
-            r=r+dr;
-            c=c+dc;
-            ans.add(matrix[r][c]);
-        }
-        spiral(matrix, n, m-1, ans, r, c, dc, -dr);
-    }
     public List<Integer> spiralOrder(int[][] matrix) {
+        int[][] directions={{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
+        int i=0, j=0, m=matrix.length, n=matrix[i].length;
+        int d=0;
         List<Integer> ans=new ArrayList<>();
-        spiral(matrix,matrix.length, matrix[0].length, ans, 0,-1,0,1);
+        boolean[][]visited=new boolean[m][n];
+        for(int k=0;k<m*n;k++){
+            ans.add(matrix[i][j]);
+            visited[i][j]=true;
+            int ni=i+directions[d][0], nj=j+directions[d][1];
+            if(ni<0 || nj<0 || ni>=m || nj>=n || visited[ni][nj]){
+                d=(d+1)%4;
+                ni=i+directions[d][0];
+                nj=j+directions[d][1];
+            }
+            i=ni;j=nj;
+        }
         return ans;
     }
 }
