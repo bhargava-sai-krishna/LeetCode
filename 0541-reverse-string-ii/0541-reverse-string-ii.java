@@ -1,20 +1,23 @@
 class Solution {
     public String reverseStr(String s, int k) {
-        char[] arr = s.toCharArray();
+        List<String> splits = new ArrayList<>();
         
-        for(int i=0;i<arr.length;i+=2*k){
-            int l=i;
-            int r=Math.min(i+k-1,arr.length-1);
+        for(int i=0;i<s.length();i+=k){
+            splits.add(s.substring(i, Math.min(i+k, s.length())));
+        }
+        
+        StringBuilder result = new StringBuilder();
+        
+        for(int i=0;i<splits.size();i++){
+            String part = splits.get(i);
             
-            while(l<r){
-                char temp=arr[l];
-                arr[l]=arr[r];
-                arr[r]=temp;
-                l++;
-                r--;
+            if(i%2==0){
+                result.append(new StringBuilder(part).reverse());
+            }else{
+                result.append(part);
             }
         }
         
-        return new String(arr);
+        return result.toString();
     }
 }
