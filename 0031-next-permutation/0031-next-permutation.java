@@ -1,27 +1,42 @@
 class Solution {
-    public void nextPermutation(int[] nums) {
-        int n=nums.length, i=n-2;
-        while(i>=0 && nums[i]>=nums[i+1]){
-            i--;
-        }
-        if(i>=0){
-            int j=n-1;
-            while(nums[j]<=nums[i]){
-                j--;
-            }
-            nums[i]=nums[i]+nums[j];
-            nums[j]=nums[i]-nums[j];
-            nums[i]=nums[i]-nums[j];
-        }
-        reverse(nums, i+1, n-1);
+
+    private void swapNumbers(int[] nums, int ind1, int ind2) {
+        int temp = nums[ind1];
+        nums[ind1] = nums[ind2];
+        nums[ind2] = temp;
     }
-    public void reverse(int[] nums, int start, int end){
-        while(start<end){
-            nums[start]=nums[start]+nums[end];
-            nums[end]=nums[start]-nums[end];
-            nums[start]=nums[start]-nums[end];
+
+    private void reverse(int[] nums, int start, int end) {
+        while(start < end) {
+            swapNumbers(nums, start, end);
             start++;
             end--;
         }
+    }
+
+    public void nextPermutation(int[] nums) {
+        int n = nums.length;
+        int pivot = 0;
+
+        for(int i = n - 1; i > 0; i--) {
+            if(nums[i-1] < nums[i]) {
+                pivot = i;
+                break;
+            }
+        }
+
+        if(pivot == 0) {
+            Arrays.sort(nums);
+            return;
+        }
+
+        int swap = n - 1;
+
+        while(nums[pivot - 1] >= nums[swap]) {
+            swap -= 1;
+        }
+
+        swapNumbers(nums, pivot - 1, swap);
+        reverse(nums, pivot, n - 1);
     }
 }
