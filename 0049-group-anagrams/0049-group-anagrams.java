@@ -1,15 +1,29 @@
 class Solution {
+    private String generateKey(String s) {
+        char[] chars = s.toCharArray();
+        Arrays.sort(chars);
+        return new String(chars);
+    }
+
     public List<List<String>> groupAnagrams(String[] strs) {
-        Map<String, List<String>> ans=new HashMap<>();
-        for(String i: strs){
-            char[] temp=i.toCharArray();
-            Arrays.sort(temp);
-            String temp2=new String(temp);
-            if(!ans.containsKey(temp2)){
-                ans.put(temp2, new ArrayList<>());
+        Map<String, List<String>> map = new HashMap<>();
+
+        for(String s : strs) {
+            String key = generateKey(s);
+
+            if(map.containsKey(key)) {
+                map.get(key).add(s);
+            } else {
+                map.put(key, new ArrayList<>(Arrays.asList(s)));
             }
-            ans.get(temp2).add(i);
         }
-        return new ArrayList(ans.values());
+
+        List<List<String>> ans = new ArrayList<>();
+
+        for(Map.Entry<String, List<String>> entry : map.entrySet()) {
+            ans.add(entry.getValue());
+        }
+
+        return ans;
     }
 }
