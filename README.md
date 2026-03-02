@@ -257,6 +257,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1025-minimum-cost-for-tickets](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1036-rotting-oranges) |
+| [1046-last-stone-weight](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1063-best-sightseeing-pair](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1127-last-stone-weight](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1127-last-stone-weight) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -506,6 +507,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1127-last-stone-weight](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1127-last-stone-weight) |
 | [1304-longest-happy-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1304-longest-happy-string) |
 | [1397-search-suggestions-system](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1397-search-suggestions-system) |
