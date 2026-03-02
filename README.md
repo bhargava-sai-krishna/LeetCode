@@ -252,6 +252,7 @@
 | [0921-spiral-matrix-iii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0952-word-subsets) |
+| [0973-k-closest-points-to-origin](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1002-maximum-width-ramp](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1006-vowel-spellchecker](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -430,6 +431,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0883-car-fleet](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1014-k-closest-points-to-origin](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1217-relative-sort-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -495,6 +497,7 @@
 | [0191-number-of-1-bits](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1014-k-closest-points-to-origin](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -506,6 +509,7 @@
 | [0744-network-delay-time](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1014-k-closest-points-to-origin](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1127-last-stone-weight](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1127-last-stone-weight) |
@@ -650,6 +654,7 @@
 | [0826-soup-servings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0867-new-21-game) |
 | [0870-magic-squares-in-grid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0973-k-closest-points-to-origin](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1013-fibonacci-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -1061,6 +1066,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0973-k-closest-points-to-origin](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1014-k-closest-points-to-origin](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -1164,6 +1170,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1014-k-closest-points-to-origin](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Prefix Sum
 | Problem Name | Difficulty |
