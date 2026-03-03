@@ -240,6 +240,7 @@
 | [0498-diagonal-traverse](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0679-24-game](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0679-24-game) |
 | [0695-max-area-of-island](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0695-max-area-of-island) |
 | [0729-my-calendar-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0729-my-calendar-i) |
@@ -433,6 +434,7 @@
 | [0455-assign-cookies](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0883-car-fleet](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -512,6 +514,7 @@
 | [0239-sliding-window-maximum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0744-network-delay-time](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -576,6 +579,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0870-magic-squares-in-grid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0931-maximum-frequency-stack](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0931-maximum-frequency-stack) |
@@ -757,6 +761,7 @@
 | [0179-largest-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0670-maximum-swap](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0890-lemonade-change) |
@@ -1133,6 +1138,7 @@
 | [0169-majority-element](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0920-uncommon-words-from-two-sentences](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0948-sort-an-array) |
 | [1217-relative-sort-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1217-relative-sort-array) |
