@@ -1,23 +1,23 @@
 class Solution {
     public int countSubstrings(String s) {
-        String ans="";
-        int ansLen=0;
-        int count=0;
-        for(int i=0;i<s.length();i++){
-            int l=i,r=i;
-            while(l>=0 && r<s.length() && s.charAt(l)==s.charAt(r)){
-                count++;
-                l=l-1;
-                r=r+1;
-            }
-            l=i;
-            r=i+1;
-            while(l>=0 && r<s.length() && s.charAt(l)==s.charAt(r)){
-                count++;
-                l=l-1;
-                r=r+1;
-            }
+        int count = 0;
+
+        for(int i = 0; i < s.length(); i++) {
+            count += expandFromCenter(s, i, i);
+            count += expandFromCenter(s, i, i + 1);
         }
+
+        return count;
+    }
+
+    public int expandFromCenter(String s, int left, int right) {
+        int count = 0;
+        while((left >=0 && right < s.length()) && (s.charAt(left) == s.charAt(right))) {
+            count++;
+            left--;
+            right++;
+        }
+
         return count;
     }
 }
