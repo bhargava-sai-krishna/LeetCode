@@ -13,6 +13,7 @@ class Solution {
         return changes;
     }
     public int minOperations(String s) {
-        return Math.min(count(s, '0'), count(s, '1'));
+        int count = count(s, '0');
+        return Math.min(count, s.length() - count);
     }
 }
