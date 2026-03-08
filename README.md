@@ -126,6 +126,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1923-sentence-similarity-iii) |
+| [1980-find-unique-binary-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -296,6 +297,7 @@
 | [1923-sentence-similarity-iii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1972-rotating-the-box) |
+| [1980-find-unique-binary-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2023-design-movie-rental-system](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2023-design-movie-rental-system) |
@@ -601,6 +603,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1980-find-unique-binary-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -1120,6 +1123,7 @@
 | [0257-binary-tree-paths](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0679-24-game) |
+| [1980-find-unique-binary-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
