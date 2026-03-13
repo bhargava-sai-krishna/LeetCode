@@ -300,6 +300,7 @@
 | [1980-find-unique-binary-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2013-detect-squares](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/2013-detect-squares/) | Medium |
 | [2023-design-movie-rental-system](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2139-detect-squares](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2139-detect-squares) |
 | [2155-find-missing-observations](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2155-find-missing-observations) |
@@ -605,6 +606,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1980-find-unique-binary-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2013-detect-squares](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/2013-detect-squares/) | Medium |
 | [2023-design-movie-rental-system](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2139-detect-squares](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2139-detect-squares) |
@@ -1070,6 +1072,7 @@
 | [0931-maximum-frequency-stack](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2013-detect-squares](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/2013-detect-squares/) | Medium |
 | [2023-design-movie-rental-system](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2139-detect-squares](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2139-detect-squares) |
 | [2429-design-a-food-rating-system](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -1155,6 +1158,7 @@
 | [1217-relative-sort-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1217-relative-sort-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2013-detect-squares](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/2013-detect-squares/) | Medium |
 | [2139-detect-squares](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2139-detect-squares) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -1271,6 +1275,7 @@
 | [0295-find-median-from-data-stream](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2013-detect-squares](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/2013-detect-squares/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
