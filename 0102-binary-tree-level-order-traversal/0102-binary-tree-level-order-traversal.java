@@ -27,16 +27,16 @@ class Solution {
 
             for(int i = 0; i < levelSize; i++) {
                 TreeNode curr = queue.poll();
-                if(curr != null){
-                    level.add(curr.val);
+                level.add(curr.val);
+                if(curr.left != null) {
                     queue.add(curr.left);
+                }
+                if(curr.right != null) {
                     queue.add(curr.right);
                 }
             }
 
-            if(level.size() != 0) {
-                ans.add(level);
-            }
+            ans.add(level);
         }
 
         return ans;
