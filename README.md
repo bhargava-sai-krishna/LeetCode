@@ -247,6 +247,7 @@
 | [0621-task-scheduler](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0679-24-game](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0679-24-game) |
 | [0695-max-area-of-island](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0729-my-calendar-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0739-daily-temperatures) |
@@ -709,6 +710,7 @@
 | [0287-find-the-duplicate-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0729-my-calendar-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0792-binary-search) |
