@@ -15,24 +15,24 @@
  */
 class Solution {
 
-    private void inOrderTraversal(TreeNode root, List<Integer> list) {
-        if(root == null) {
-            return;
+    private Integer prev = null;
+
+    private boolean inOrder(TreeNode root) {
+        if (root == null) return true;
+
+        if (!inOrder(root.left)) {
+            return false;
         }
-        inOrderTraversal(root.left, list);
-        list.add(root.val);
-        inOrderTraversal(root.right, list);
+        
+        if (prev != null && root.val <= prev) {
+            return false;
+        }
+        prev = root.val;
+
+        return inOrder(root.right);
     }
+
     public boolean isValidBST(TreeNode root) {
-        List<Integer> list = new ArrayList<>();
-        inOrderTraversal(root, list);
-
-        for(int i = 1; i < list.size(); i++) {
-            if(list.get(i - 1) >= list.get(i)) {
-                return false;
-            }
-        }
-
-        return true;
+        return inOrder(root);
     }
 }
