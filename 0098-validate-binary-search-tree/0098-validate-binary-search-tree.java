@@ -14,19 +14,25 @@
  * }
  */
 class Solution {
-    public boolean isValidBST(TreeNode root) {
-         return isValidBSTHelper(root, Long.MIN_VALUE, Long.MAX_VALUE);
+
+    private void inOrderTraversal(TreeNode root, List<Integer> list) {
+        if(root == null) {
+            return;
+        }
+        inOrderTraversal(root.left, list);
+        list.add(root.val);
+        inOrderTraversal(root.right, list);
     }
-    public boolean isValidBSTHelper(TreeNode root, long min, long max)
-    {
-        if (root == null) 
-        {
-            return true;
+    public boolean isValidBST(TreeNode root) {
+        List<Integer> list = new ArrayList<>();
+        inOrderTraversal(root, list);
+
+        for(int i = 1; i < list.size(); i++) {
+            if(list.get(i - 1) >= list.get(i)) {
+                return false;
+            }
         }
-        if (root.val <= min || root.val >= max)
-        {
-             return false;
-        }
-        return isValidBSTHelper(root.left, min, root.val) && isValidBSTHelper(root.right, root.val,max);
+
+        return true;
     }
 }
