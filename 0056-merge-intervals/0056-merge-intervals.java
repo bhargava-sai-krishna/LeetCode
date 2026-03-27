@@ -1,19 +1,10 @@
 class Solution {
     public int[][] merge(int[][] intervals) {
-        PriorityQueue<int[]> pq = new PriorityQueue<>(
-            Comparator.comparingInt((int[] a) -> a[0])
-              .thenComparingInt(a -> a[1])
-        );
-
-        for(int[] interval : intervals) {
-            pq.offer(interval);
-        }
+        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
 
         List<int[]> ans = new ArrayList<>();
 
-        while(!pq.isEmpty()) {
-            int[] curr = pq.poll();
-
+        for(int[] curr : intervals) {
             if(ans.isEmpty()) {
                 ans.add(curr);
                 continue;
