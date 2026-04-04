@@ -128,6 +128,7 @@
 | [1923-sentence-similarity-iii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1980-find-unique-binary-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -398,6 +399,7 @@
 | [1552-build-an-array-with-stack-operations](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2155-find-missing-observations](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2155-find-missing-observations) |
 | [2232-adding-spaces-to-a-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
