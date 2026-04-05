@@ -101,6 +101,7 @@
 | [0539-minimum-time-difference](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0657-robot-return-to-origin](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -395,6 +396,7 @@
 | [0258-add-digits](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0657-robot-return-to-origin](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0921-spiral-matrix-iii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1552-build-an-array-with-stack-operations](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
