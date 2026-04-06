@@ -16,13 +16,15 @@ class Solution {
         ListNode ansCurr = ans;
 
         while(curr != null) {
+            ListNode temp = curr;
+
             for(int i = 0; i < k && curr !=null; i++) {
                 stack.push(curr);
                 curr = curr.next;
             }
 
             if(stack.size() < k) {
-                ansCurr.next = stack.firstElement();
+                ansCurr.next = temp;
                 break;
             }
 
