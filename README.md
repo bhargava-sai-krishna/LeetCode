@@ -259,6 +259,7 @@
 | [0792-binary-search](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0883-car-fleet](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0921-spiral-matrix-iii) |
@@ -397,6 +398,7 @@
 | [0412-fizz-buzz](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0874-walking-robot-simulation](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0921-spiral-matrix-iii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1552-build-an-array-with-stack-operations](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -596,6 +598,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0870-magic-squares-in-grid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0920-uncommon-words-from-two-sentences](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0931-maximum-frequency-stack](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [0952-word-subsets](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0952-word-subsets) |
