@@ -349,6 +349,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3748-sort-matrix-by-diagonals](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -640,6 +641,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3678-design-task-manager](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3678-design-task-manager) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3827-implement-router) |
