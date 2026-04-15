@@ -141,6 +141,7 @@
 | [2429-design-a-food-rating-system](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2502-sort-the-people) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2580-circular-sentence](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2615-make-number-of-distinct-characters-equal](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2615-make-number-of-distinct-characters-equal) |
@@ -325,6 +326,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2502-sort-the-people](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2502-sort-the-people) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
