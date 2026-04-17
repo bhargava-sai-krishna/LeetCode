@@ -357,6 +357,7 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3748-sort-matrix-by-diagonals](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -650,6 +651,7 @@
 | [3678-design-task-manager](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3678-design-task-manager) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3827-implement-router) |
@@ -718,6 +720,7 @@
 | [3462-vowels-game-in-a-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3830-find-closest-person](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3830-find-closest-person) |
 ## Binary Search
 | Problem Name | Difficulty |
