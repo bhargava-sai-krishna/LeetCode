@@ -721,6 +721,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3783-mirror-distance-of-an-integer](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3830-find-closest-person](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3830-find-closest-person) |
 ## Binary Search
 | Problem Name | Difficulty |
