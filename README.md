@@ -149,6 +149,7 @@
 | [2727-number-of-senior-citizens](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2833-furthest-point-from-origin](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2881-split-strings-by-separator](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -1207,6 +1208,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2615-make-number-of-distinct-characters-equal](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2615-make-number-of-distinct-characters-equal) |
+| [2833-furthest-point-from-origin](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Number Theory
