@@ -239,6 +239,7 @@
 | [0322-coin-change](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0396-rotate-function](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0406-queue-reconstruction-by-height](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -699,6 +700,7 @@
 | [0342-power-of-four](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0396-rotate-function](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0412-fizz-buzz](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0441-arranging-coins) |
 | [0539-minimum-time-difference](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -1038,6 +1040,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0647-palindromic-substrings) |
