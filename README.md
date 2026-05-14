@@ -346,6 +346,7 @@
 | [2727-number-of-senior-citizens](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2756-buy-two-chocolates](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2756-buy-two-chocolates) |
+| [2784-check-if-array-is-good](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2881-split-strings-by-separator](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2881-split-strings-by-separator) |
@@ -490,6 +491,7 @@
 | [2631-sort-the-students-by-their-kth-score](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2756-buy-two-chocolates](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2756-buy-two-chocolates) |
+| [2784-check-if-array-is-good](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -654,6 +656,7 @@
 | [2615-sum-of-distances](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
 | [2677-cousins-in-binary-tree-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [2784-check-if-array-is-good](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3488-closest-equal-element-queries](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
