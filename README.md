@@ -163,6 +163,7 @@
 | [3396-valid-word](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3396-valid-word) |
 | [3451-string-compression-iii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3451-string-compression-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3797-design-spreadsheet](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3838-weighted-word-mapping](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -443,6 +444,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3790-fruits-into-baskets-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3838-weighted-word-mapping](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
