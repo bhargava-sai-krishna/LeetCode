@@ -296,6 +296,7 @@
 | [1397-search-suggestions-system](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -499,6 +500,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1288-remove-covered-intervals](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1397-search-suggestions-system](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1397-search-suggestions-system) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -586,6 +588,7 @@
 | [1127-last-stone-weight](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1127-last-stone-weight) |
 | [1304-longest-happy-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1304-longest-happy-string) |
 | [1397-search-suggestions-system](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1397-search-suggestions-system) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1845-seat-reservation-manager](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/1845-seat-reservation-manager/) | Medium |
 | [1917-maximum-average-pass-ratio](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
