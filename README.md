@@ -157,6 +157,7 @@
 | [2833-furthest-point-from-origin](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2881-split-strings-by-separator](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2881-split-strings-by-separator) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -687,6 +688,7 @@
 | [2677-cousins-in-binary-tree-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2784-check-if-array-is-good](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3488-closest-equal-element-queries](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -821,6 +823,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Recursion
 |  |
