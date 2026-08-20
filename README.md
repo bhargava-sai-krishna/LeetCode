@@ -366,6 +366,7 @@
 | [2868-continuous-subarrays](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2881-split-strings-by-separator](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -451,6 +452,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
