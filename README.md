@@ -775,6 +775,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3830-find-closest-person](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3830-find-closest-person) |
 ## Binary Search
 |  |
@@ -886,6 +887,7 @@
 | [3195-separate-black-and-white-balls](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Tree
 |  |
 | ------- |
