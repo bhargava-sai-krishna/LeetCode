@@ -303,6 +303,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/bhargava-sai-krishna/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1552-build-an-array-with-stack-operations](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -760,6 +761,7 @@
 | [1349-check-if-it-is-a-straight-line](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1448-maximum-69-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1585-the-kth-factor-of-n](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [2155-find-missing-observations](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2155-find-missing-observations) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -1110,6 +1112,7 @@
 | [1063-best-sightseeing-pair](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1250-longest-common-subsequence](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2586-longest-square-streak-in-an-array](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/2755-extra-characters-in-a-string) |
@@ -1323,6 +1326,7 @@
 | [0731-my-calendar-ii](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/bhargava-sai-krishna/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
